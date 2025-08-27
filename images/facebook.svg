@@ -1,0 +1,9 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+	<title>facebook-app-symbol</title>
+	<defs>
+		<image  width="266" height="512" id="img1" href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQoAAAIAAQMAAABAdrBxAAAAAXNSR0IB2cksfwAAAAZQTFRF////////VXz1bAAAAAJ0Uk5TAP9bkSK1AAAB00lEQVR4nO3YXU4CMRSG4SmSyJ2zA9mJ7EzYmexEduDcSSKOhiDTOectTSOjxn7nAkryBHq+nuEvNFj3z8e7cL5x9fD0tQoJcvM2rLsWyeM6erAlcvva5MiwkxQJ702OnBq+REabRWJeh8jdS5aM+0HSNzkSh58gditATCpETCpAbCpA3G49cbv1xO3WE7dbT2y2nviGHBmPLRLfkCO+IUfssADxPTvie7YEerbEH6IjEIslEIslEIslEIslEIslEIshFEs5oeQMoeTKCYVrCIVrCIVbTih/Qyj/YoL5FxM8omKCRzQmeETFBE+xmOApTkFwFooJzkIp4VmYgPC4TEB46CYgPJcTEB7d3yE83T9BtqvjXZp07WkRkfFl1M+aHDk/SZps1jkyvE6S7BdERtfrbpklp0wukWG3SRJwGZOooRQ5zLMk6jkio/eOIf4k2S2vQaLkvkGicKclAdfXJ/FBl5H4nfk6JJ6oakh8jYiIiIiIiIiI/EvCf1EM1c8qJId5hWS/EKHqWhGq3bJCsl2JUG3WIlQh/wlbI+lnFZLDXITq8wupCFTXVkrOD/7A7yMRERERERERERERERERERERERERERERERERERERERERSz4AWdjfrvu1Y9UAAAAASUVORK5CYII="/>
+	</defs>
+	<style>
+	</style>
+	<use id="Background" href="#img1" x="123" y="0"/>
+</svg>
